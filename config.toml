@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "https://cereus-pro.netlify.com/"
+baseurl = "/"
 languageCode = "id-ID"
-title = "Cereus Pro | Hugo Theme"
+title = "Left of Boom Security"
 
 #Set googleAnalytics ID
 googleAnalytics = ""
@@ -9,17 +9,17 @@ googleAnalytics = ""
 hasCJKLanguage = false
 
 [params]
-	author = "arhen"
-	description = "Minimalist Blog Themes For Developer"
-	bio = "Blazing Fast & Minimalist Blog Themes"
+	author = "Left of Boom Security, LLC"
+	description = ""
+	bio = ""
 
-	twitter = "arhen_desu"
+#	twitter = "arhen_desu"
 
-	enableRSS = true
+	enableRSS = false
 	enableToc = true
 
-	enableDisqus = true
-	disqusShortname = "" #disqus shortname here
+	enableDisqus = false
+#	disqusShortname = "" #disqus shortname here
 
 
 	enableSummary = true
@@ -27,9 +27,9 @@ hasCJKLanguage = false
 	useDescriptionReplaceSummary = true
 
 
-	enableGoogleAnalytics = true
+	enableGoogleAnalytics = false
 
-	enableTwitterCard = true
+	enableTwitterCard = false
 	# The url for twitter card image, default is avatar.png in static/images directory
 	twitterCardImage = "images/avatar.jpg"
 
@@ -43,27 +43,27 @@ hasCJKLanguage = false
 	# Navigation links
 	home = ""
 	about = ""
-	now = ""
-	blogs = ""
+#	now = ""
+#	blogs = ""
 	tags = ""
 	subscribe = ""
 
 	olderPosts = ""
 	newerPosts = ""
-	copyright = ""
+	copyright = "© 2023 Left of Boom Security"
 
 	# show latest posts in single page
 	showLatestPosts = false
 	readMore = ""
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
 	# 404 page
-	title404 = "Opps! This place is called 404."
-	subtitle404 = "You entered in the wrong room buddy! Go back."
+	title404 = "404."
+	subtitle404 = "No."
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
 	iconFont = "font-awesome"
@@ -73,7 +73,7 @@ hasCJKLanguage = false
 	githubRepo = ""
 
 # Add additional social link entries underneath
-[social]
-	twitter-square = "https://www.twitter.com/arhen_desu"
-	github-square = "https://www.github.com/arhen"
-	linkedin-square = "https://www.linkedin.com/in/rahmadslamet"
+#[social]
+#	twitter-square = "https://www.twitter.com/arhen_desu"
+#	github-square = "https://www.github.com/arhen"
+#	linkedin-square = "https://www.linkedin.com/in/rahmadslamet"
