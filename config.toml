@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "/"
+baseurl = "https://funny-puppy-24fa2a.netlify.app/"
 languageCode = "id-ID"
 title = "Left of Boom Security"
 
