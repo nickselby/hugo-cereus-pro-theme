@@ -7,7 +7,7 @@ hidden = true
 
 ### Hi.
 
-We're information security professionals with more than 40 combined years of experience safeguarding some of the world's most mission-critical systems. From life-dependent functions to systems that protect billions of dollars of cryptoassets, we've made certain they stay secure, available, and work as intended. We can help you understand what's important, and how to make sure it does what it's supposed to do - and nothing more or less.
+We're information security professionals with more than 40 combined years of experience in the public and private sectors. We have helped our clients safeguard some of the world's most mission-critical systems. From life-preserving functions in the manufacturing, chemical, petroleum, and healthcare industries and in law enforcement, to critical systems that protect billions of dollars of assets and cryptoassets in the financial services sector, we've made certain they stay secure, available, and that they work as intended. We can help you understand what's important, and how to make sure it does what it's supposed to do.
 
 For more information, feel free to contact us:
 
@@ -19,7 +19,7 @@ For more information, feel free to contact us:
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Message: <textarea name="message"></textarea></label>
+    <label>Message: <textarea style="width: 500px; height: 10px;" name="message"></textarea></label>
   </p>
   <p>
     <button type="submit">Send</button>
