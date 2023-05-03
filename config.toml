@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://leftofboomsecurity.com"
+baseurl = "/"
 languageCode = "id-ID"
 title = "Left of Boom Security"
 
