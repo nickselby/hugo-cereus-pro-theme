@@ -7,7 +7,7 @@ hidden = true
 
 ### Hi.
 
-We're information security professionals with more than 40 combined years of experience in the public and private sectors. We have helped our clients safeguard some of the world's most mission-critical systems. 
+We're information security professionals with more than 70 combined years of experience in the public and private sectors. We have helped our clients safeguard some of the world's most mission-critical systems. 
 
 From life-preserving functions in the manufacturing, chemical, petroleum, and healthcare industries and in law enforcement, to critical systems that protect billions of dollars of assets and cryptoassets in the financial services sector, we've made certain they stay secure, available, and that they work as intended. We can help you understand what's important, and how to make sure it does what it's supposed to do.
 
